@@ -6,4 +6,4 @@ Rocky Linux es una distribución de Linux, desarrollada por Rocky Enterprise Sof
 
 ¿En qué versión está basada?
  RHEL 9.0
-![Rocky](fotos/rocky.jpg)
+![Rocky](/fotos/rocky.jpg)
