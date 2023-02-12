@@ -8,4 +8,5 @@
 ## [2.- Módulo2: Repositorios Rocky Linux](md/modulo2.md)
 
 ## [3.- Módulo3: Operaciones Básicas](md/modulo3.md)
+![Licencia](fotos/licencia.png)
 
