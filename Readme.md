@@ -6,7 +6,7 @@
 ## [1.- Módulo1: Paquetes rpm](md/modulo1.md)
 
 ## [2.- Módulo2: Repositorios Rocky Linux](md/modulo2.md)
-
+![repoinfo](/fotos/yumRepoinfo.PNG)
 ## [3.- Módulo3: Operaciones Básicas](md/modulo3.md)
 ![Licencia](fotos/licencia.png)
 
